@@ -1,11 +1,11 @@
-<h1 align="center">Olá que bom te ver por aqui.</h1>
-<h3 align="center">Eu sou a Luana Carolina Nascimento, Formada em Arquitetura e em transição para área de Análise e Desenvolvimento de Sistemas. </h3>
+<h1 align="center">Olá Pessoal, bom te ver por aqui!</h1>
+<h3 align="center">Eu sou a Luana Nascimento, formada em Arquitetura e em transição para área de Análise e Desenvolvimento de Sistemas. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcnasimento&label=Profile%20views&color=0e75b6&style=flat" alt="lcnasimento" /> </p >
 
-- 🔭Estou trabalhando atualmente em **Desenvolvimento frontend de aplicações e Design de Produtos**
+- 🔭Estou trabalhando atualmente em **Desenvolvimento frontend de aplicações e Design de Produtos** na empresa VOR Tecnologia Ltda.
 
-- 🌱Estou cursando a faculdade FATEC de Tecnólogo em **Análise e Desenvolvimento de Sistemas e cursos extras como Oracle Cloud Infrastruture e SQLServer**
+- 🌱Estou cursando a FATEC de Tecnólogo em **Análise e Desenvolvimento de Sistemas e cursos extras como Oracle Cloud Infrastruture e SQLServer para me aprimorar e conhecer mais sobre a área**
 
 - 👯 Estou desenvolvendo meu TCC em colaboração com IAGO [CLASS GAMING - Aprendendo inglês com gamificação](https://github.com/iagohenrique2009/tcc_class_gaming)
 
