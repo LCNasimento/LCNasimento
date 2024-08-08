@@ -15,7 +15,7 @@
 
 - 📫 Contato **luana.ca@hotmail.com**
 
-- ⚡ Fatos curiosos sobre mim **Eu sou uma pessoa muito esforçada que sempre se dedica no que faz no presente, tenho uma trajetória diferente, comecei no mercado de trabalho na área de Assistente Operacional, fiz faculdade de Arquitetura e Urbanismo, desenvolvi o lado criativo, mas ao atuar na área não me sinto completa, então resolvi mudar para um área de Desenvolvimento e Análise de Banco de Dados e estou apaixonada pela área.**
+- ⚡ Fatos curiosos sobre mim **Eu sou uma pessoa muito esforçada que sempre se dedica no que faz no presente, tenho uma trajetória diferente, comecei no mercado de trabalho na área de Assistente Operacional, fiz faculdade de Arquitetura e Urbanismo, desenvolvi o lado criativo, mas ao atuar na área não me senti completa, então resolvi mudar para um área de Desenvolvimento e Análise de Banco de Dados e estou apaixonada pela área.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
